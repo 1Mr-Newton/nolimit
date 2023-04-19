@@ -29,7 +29,7 @@ class Home(Container):
                     text_align='center'
                 ),
                 Image(
-                    src='assets/imgs/i1.jpg',
+                    src='assets/imgs/i2.jpg',
                     scale=0.8
                 ),
                 Container(height=280),

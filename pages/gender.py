@@ -38,7 +38,15 @@ class Gender(Container):
                         Container(
                             height=180, width=130,
                             border_radius=20,
-                            bgcolor='blue'
+                            bgcolor='blue',
+                            content=Column(
+                                controls=[
+                                    Image(
+                                        # replace with image src(it can be a url)
+                                        src='...'
+                                    )
+                                ]
+                            )
                         ),
                     ]
                 ),

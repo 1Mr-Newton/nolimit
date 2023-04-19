@@ -15,7 +15,7 @@ class Dashboard(Container):
                     alignment='spaceBetween',
                     controls=[
                         Text(
-                            value='Hi, Grace'
+                            value='Hi, Jon'
                         ),
                         CircleAvatar(
                             radius=10
